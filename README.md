@@ -123,7 +123,7 @@ To get started with the course materials and code examples, follow these steps:
   <img src="https://authoring.metacrafters.io/assets/cms/JS_3_40514dc63b.png?updated_at=2023-02-17T16:18:47.388Z" alt="NFT 1" width="200" />
   <img src="https://authoring.metacrafters.io/assets/cms/Group_483375_f1b416ffb4.png?updated_at=2023-01-04T17:12:09.776Z" alt="NFT 2" width="200" />
   <img src="https://authoring.metacrafters.io/assets/cms/Frame_460_792eab592a.png?updated_at=2023-05-03T07:51:33.211Z" alt="NFT 3" width="200" />
-  <img src="https://authoring.metacrafters.io/assets/cms/Group_483403_bf3f4e54fc.png?updated_at=2023-02-27T14:37:22.889Z" alt="NFT 4" width="200" />
+  <img src="https://authoring.metacrafters.io/assets/cms/Group_483404_a1bac61902.png?updated_at=2023-02-27T14:37:23.249Z" alt="NFT 4" width="200" />
 </div>
 
 
@@ -142,7 +142,7 @@ To get started with the course materials and code examples, follow these steps:
 
 ## Author 😎
 
-- [Sanjay Choudhary ❤️](https://github.com/cu-sanjay)
+- **[Sanjay Choudhary ❤️](https://github.com/cu-sanjay)**
 
 ## Acknowledgment
 
@@ -154,7 +154,7 @@ Contributions to this project are welcome! If you find any issues or have sugges
 
 ## License 📄
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the **[MIT License](LICENSE)**.
 
 ## Connect with Me 📞
 
